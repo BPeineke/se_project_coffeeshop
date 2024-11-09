@@ -51,15 +51,15 @@
   height: 20px;
 }
 
-.form__label_type_checkbox {
-  display: flex;
-  gap: 12px;
-  justify-content: center;
-}
-
 .form__label {
   font-family: Inter, "Ariel", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+}
+
+.form__label_type_checkbox {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
 }
